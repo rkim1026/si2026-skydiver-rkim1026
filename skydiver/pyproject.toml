@@ -3,18 +3,18 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "si2026-skydiver"
+name = "si2026-skydiver-rkim1026"
 dynamic = ["version"]
 description = "Twenty-minute notebook-to-package tutorial for SDSC Summer Institute 2026"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "Apache-2.0"
-authors = [{name = "Fernando Garzon"}]
+authors = [{name = "Richard Kim"}]
 keywords = ["nbdev", "jupyter", "scientific-computing"]
 dependencies = ["numpy>=1.26"]
 
 [project.urls]
-Repository = "https://github.com/sdsc/sdsc-summer-institute-2026"
+Repository = "https://github.com/rkim1026/si2026-skydiver-rkim1026"
 
 [project.scripts]
 skydiver = "skydiver.cli:main"
