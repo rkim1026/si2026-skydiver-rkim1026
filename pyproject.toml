@@ -14,7 +14,7 @@ keywords = ["nbdev", "jupyter", "scientific-computing"]
 dependencies = ["numpy>=1.26"]
 
 [project.urls]
-Repository = "https://github.com/rkim1026/si2026-skydiver-rkim1026/tree/main/skydiver"
+Repository = "https://github.com/rkim1026/si2026-skydiver-rkim1026"
 
 [project.scripts]
 skydiver = "skydiver.cli:main"
