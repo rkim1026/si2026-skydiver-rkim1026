@@ -3,7 +3,7 @@
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/',
                 'doc_host': '',
-                'git_url': 'https://github.com/sdsc/sdsc-summer-institute-2026',
+                'git_url': 'https://github.com/rkim1026/si2026-skydiver-rkim1026',
                 'lib_path': 'skydiver'},
   'syms': { 'skydiver.cli': {},
             'skydiver.physics': { 'skydiver.physics.terminal_velocity': ('skydiver.html#terminal_velocity', 'skydiver/physics.py'),
